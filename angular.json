@@ -109,7 +109,9 @@
         },
         "deploy": {
           "builder": "@angular/fire:deploy",
-          "options": {}
+          "options": {
+            "version": 2
+          }
         }
       }
     }
