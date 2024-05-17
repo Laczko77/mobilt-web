@@ -7,7 +7,6 @@ import { initializeApp, provideFirebaseApp } from '@angular/fire/app';
 import { getAuth, provideAuth } from '@angular/fire/auth';
 import { getFirestore, provideFirestore } from '@angular/fire/firestore';
 import { getStorage, provideStorage } from '@angular/fire/storage';
-import { MainComponent } from './src/pages/main/main.component';
 import { LoginComponent } from './pages/login/login/login.component';
 import { SignupComponent } from './pages/signup/signup/signup.component';
 import { MarketComponent } from './pages/market/market/market.component';
@@ -16,13 +15,7 @@ import { ProfileComponent } from './pages/profile/profile/profile.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    MainComponent,
-    LoginComponent,
-    SignupComponent,
-    MarketComponent,
-    CartComponent,
-    ProfileComponent
+    
   ],
   imports: [
     BrowserModule,
