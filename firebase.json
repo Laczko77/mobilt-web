@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "target": "Teloweb/mobilt-web",
+      "source": ".",
+      "frameworksBackend": {}
+  }
+}

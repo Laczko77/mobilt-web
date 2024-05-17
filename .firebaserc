@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "Mobiltweb": {
+      "hosting": {
+        "mobilt-web": [
+          "Mobiltweb"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mobiltweb-32764"
+  }
+}
