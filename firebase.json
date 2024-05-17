@@ -1,7 +1,7 @@
 {
   "hosting": [
     {
-      "target": "mobilt-web2",
+      "target": "mobilt-web",
       "source": ".",
       "frameworksBackend": {}
     }

@@ -2,7 +2,7 @@
   "targets": {
     "Mobiltweb": {
       "hosting": {
-        "mobilt-web2": [
+        "mobilt-web": [
           "Mobiltweb"
         ]
       }
